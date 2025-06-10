@@ -1,3 +1,4 @@
+
 # Introduction 
 
 Ceci est une recette de cuisine.
@@ -10,3 +11,6 @@ Ingrédients:
 # Étapes
 
 Étapes de préparation de la recette 
+
+#Views
+Resultat recette
