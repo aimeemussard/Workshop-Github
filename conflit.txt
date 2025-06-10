@@ -1,2 +1,4 @@
+
+conflict
 Toto lala hihihi ca a été modifié 
 conflict
