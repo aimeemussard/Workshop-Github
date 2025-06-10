@@ -1,4 +1,8 @@
+
+Toto lala hihihi ca a été modifié
+conflict test
 conflict jhjjjh
 conflict
 Toto lala hihihi ca a été modifié 
 conflict
+
